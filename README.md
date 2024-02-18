@@ -1,1 +1,2 @@
-# Book-Management-System-using-Java
+# BookManagementSystem
+Book Management System using JavaDB, Java, javaSwing
